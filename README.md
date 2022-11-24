@@ -1,3 +1,5 @@
+https://github.com/preactjs/preact-render-to-string/issues/272
+
 # preact-test
 
 ## CLI Commands
